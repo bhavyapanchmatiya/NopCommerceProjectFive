@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ace31db0-cdbe-47de-ac91-53a510519b5b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Arrays/src/main/java/Arrays/ArraysPractising.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays/src/main/java/Arrays/ArraysPractising.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Locators/src/AppleMacBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LoopsAndArraysHomework/src/Q2SumValuesArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/../LoopsAndArraysHomework/src/Q2SumValuesArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hellojava/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q10CityNames.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q11VoteEligibilty.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q12UpperLowerCase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q13InputTwoNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q14AlphabetOrSymbol.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q15DayOfWeek.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q16VowelOrConsonant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q1TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q2LeapYear.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q3and4StudentMarks.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q5InterchangedValues.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q6GrossSalary.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q7AverageFiveNumbers.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q8PositiveNegativeZero.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hellojava/src/Q9SalesAmount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/MavenHomeWork.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xyz/src/main/java/HomeWorkMaven/HomeWorkFiveTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../xyz/src/main/java/HomeWorkMaven/HomeWorkFiveTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yo1/src/main/java/yo1/UtiilsPage1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../yo1/src/main/java/yo1/UtiilsPage1.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/NopCommerceProjectFive/TestSuiteOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1720">
+              <caret line="161" column="25" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BasePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/HTCOneM8AndroidLollipopPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/RegistrationResultPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/HTCOneAndroidPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/EmailAFriend.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/RegisterPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/UtilsPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/NopCommerceProjectFive/BaseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BrowserSelector.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/CheckOutPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BuildYourOwnComputer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/SignInPage.java" />
+        <option value="$PROJECT_DIR$/src/test/Resources/TestData/testdataConfig.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/NopCommerceProjectFive/TestSuiteOne.java" />
+        <option value="$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/ShoppingCartPage.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="5" />
+    <option name="y" value="68" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NopCommerceProjectFive" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NopCommerceProjectFive" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="TestData" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/Resources/BrowswerDriver" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\DEV\NopCommerceProjectFive\src\test\Resources\ScreenShots" />
+      <recent name="C:\DEV\NopCommerceProjectFive\src\test\Resources" />
+      <recent name="C:\DEV\NopCommerceProjectFive\src\test\Resources\TestData" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\DEV\NopCommerceProjectFive\src\test\Resources\BrowswerDriver" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuiteOne.registeredUserShouldBeAbleToBuyProductSuccessfully">
+    <configuration name="TestSuiteOne" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommerceProjectFive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommerceProjectFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommerceProjectFive" />
+      <option name="MAIN_CLASS_NAME" value="NopCommerceProjectFive.TestSuiteOne" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteOne.registeredUserShouldBeAbleToBuyProductSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommerceProjectFive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommerceProjectFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommerceProjectFive" />
+      <option name="MAIN_CLASS_NAME" value="NopCommerceProjectFive.TestSuiteOne" />
+      <option name="METHOD_NAME" value="registeredUserShouldBeAbleToBuyProductSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteOne.unregistedUserCannotCheckout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommerceProjectFive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommerceProjectFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommerceProjectFive" />
+      <option name="MAIN_CLASS_NAME" value="NopCommerceProjectFive.TestSuiteOne" />
+      <option name="METHOD_NAME" value="unregistedUserCannotCheckout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteOne.unregisteredUserShouldNotBeAbleToReferAFriend" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommerceProjectFive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommerceProjectFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommerceProjectFive" />
+      <option name="MAIN_CLASS_NAME" value="NopCommerceProjectFive.TestSuiteOne" />
+      <option name="METHOD_NAME" value="unregisteredUserShouldNotBeAbleToReferAFriend" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="NopCommerceProjectFive" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="NopCommerceProjectFive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="NopCommerceProjectFive" />
+      <option name="MAIN_CLASS_NAME" value="NopCommerceProjectFive.TestSuiteOne" />
+      <option name="METHOD_NAME" value="userShouldBeAbleToRegisterSuccessfully" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuiteOne.registeredUserShouldBeAbleToBuyProductSuccessfully" />
+        <item itemvalue="TestNG.TestSuiteOne" />
+        <item itemvalue="TestNG.TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" />
+        <item itemvalue="TestNG.TestSuiteOne.unregistedUserCannotCheckout" />
+        <item itemvalue="TestNG.TestSuiteOne.unregisteredUserShouldNotBeAbleToReferAFriend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ace31db0-cdbe-47de-ac91-53a510519b5b" name="Default Changelist" comment="" />
+      <created>1570349755349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570349755349</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestSuiteOne_userShouldBeAbleToRegisterSuccessfully - 2019.10.08 at 18h 14m 24s.xml">
+      <configuration name="TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne_userShouldBeAbleToRegisterSuccessfully - 2019.10.08 at 18h 17m 25s.xml">
+      <configuration name="TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne_userShouldBeAbleToRegisterSuccessfully - 2019.10.08 at 18h 17m 57s.xml">
+      <configuration name="TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne - 2019.10.09 at 10h 53m 07s.xml">
+      <configuration name="TestSuiteOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne - 2019.10.09 at 10h 53m 44s.xml">
+      <configuration name="TestSuiteOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne - 2019.10.09 at 10h 57m 12s.xml">
+      <configuration name="TestSuiteOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne - 2019.10.09 at 11h 01m 15s.xml">
+      <configuration name="TestSuiteOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne_userShouldBeAbleToRegisterSuccessfully - 2019.10.09 at 12h 59m 33s.xml">
+      <configuration name="TestSuiteOne.userShouldBeAbleToRegisterSuccessfully" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne - 2019.10.09 at 13h 13m 00s.xml">
+      <configuration name="TestSuiteOne" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestSuiteOne_registeredUserShouldBeAbleToBuyProductSuccessfully - 2019.10.09 at 13h 16m 14s.xml">
+      <configuration name="TestSuiteOne.registeredUserShouldBeAbleToBuyProductSuccessfully" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24277017" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32561985" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.35206613" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.141.59/selenium-remote-driver-3.141.59.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="96" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019120251.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019120616.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019121135.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019122054.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019121947.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019134438.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019123417.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019122714.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019123309.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019161653.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019161751.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019162253.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/Screenshot061019162614.png" />
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/ScreenShots/Screenshot081019162809.png" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="36" column="4" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BuildYourOwnComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/EmailAFriend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/HTCOneAndroidPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/RegisterPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/SignInPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/UtilsPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2380">
+          <caret line="175" column="85" selection-start-line="175" selection-start-column="85" selection-end-line="175" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+            <element signature="e#2448#2449#0" expanded="true" />
+            <element signature="e#2503#2504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NopCommerceProjectFive/BaseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/BrowserSelector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/TestData/testdataConfig.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/RegistrationResultPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/CheckOutPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/ScreenShots/registeredUserShouldBeAbleToBuyProductSuccessfully.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/Resources/ScreenShots/unregisteredUserCanCheckout.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/NopCommerceProjectFive/ShoppingCartPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/NopCommerceProjectFive/TestSuiteOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1720">
+          <caret line="161" column="25" selection-start-line="161" selection-start-column="25" selection-end-line="161" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.beust:jcommander:1.72</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
